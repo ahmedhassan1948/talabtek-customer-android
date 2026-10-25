@@ -1,4 +1,4 @@
-# طلبتك — تطبيق العميل
+﻿# طلبتك — تطبيق العميل
 
 <p align="center">
   <img src="store/icon-512.png" width="140" alt="Talabtek Customer" />
@@ -41,6 +41,7 @@
 <img src="screenshots/om-cust-cart.png" width="260" alt="cust cart" />
 <img src="screenshots/om-cust-checkout.png" width="260" alt="cust checkout" />
 <img src="screenshots/om-cust-orders.png" width="260" alt="cust orders" />
+<img src="screenshots/cust-track-driver.png" width="260" alt="track driver" />
 
 ## التثبيت
 
@@ -100,3 +101,4 @@ build.ps1                # بناء وتوقيع بدون Gradle
 ## الرخصة
 
 © 2026 طلبتك — جميع الحقوق محفوظة. الاستخدام التجريبي مسموح مع الإشارة للمصدر.
+
